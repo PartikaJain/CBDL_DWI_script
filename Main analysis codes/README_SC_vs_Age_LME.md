@@ -78,10 +78,6 @@ source("SC_vs_age_LMEs.R")   # or .Rmd / .txt renamed to .R
 ## 📚 Citation
 > **Frontal Vulnerability vs. Temporal Resilience within core Language Network: Neuro‑compensatory mechanisms underline differential language aging trajectories**. Jain, Akhter, & Banerjee (2025).
 
----
-
-## 📄 License
-MIT (recommended) — update as needed.
 
 ---
 

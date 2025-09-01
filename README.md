@@ -9,7 +9,7 @@ This repository hosts code and pipelines developed at the **Cognitive Brain Dyna
 Language abilities follow distinct aging trajectories:
 
 - **Language production (LP)** (e.g., verbal fluency, tip-of-the-tongue, priming tasks) tends to decline with age.  
-- **Language comprehension (LC)** (e.g., vocabulary, proverb, syntactic/semantic comprehension) is more stable, and in some cases improves with age.  
+- **Language comprehension (LC)** (e.g., vocabulary, proverb, syntactic/semantic comprehension) is relatively more stable, and in some cases improves with age.  
 
 Using the **CamCAN cohort** (N = 558, ages 18–88), our analyses revealed a **frontal vulnerability vs temporal resilience** pattern:  
 

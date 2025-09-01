@@ -79,11 +79,6 @@ If you use this code, please cite the manuscript:
 
 ---
 
-## 📄 License
-MIT (recommended) — update this section to your preferred license.
-
----
-
 ## 🙋 Troubleshooting
 - **Convergence warnings**: try `bobyqa` optimizer and/or scale predictors.
 - **Singular fit**: check random‑effects structure or category sparsity in `Edu`.

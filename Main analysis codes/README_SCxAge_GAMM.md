@@ -83,11 +83,6 @@ Adjust file paths at the top if your CSVs live elsewhere.
 
 ---
 
-## 📄 License
-MIT (recommended).
-
----
-
 ## 🙋 Troubleshooting
 - **`anova.gam` p = NA**: ensure `ti()` term present and models converge.
 - **`bs="re"` errors**: factors must be coded; verify `gender`, `Edu` are factors.

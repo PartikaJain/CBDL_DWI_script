@@ -80,10 +80,6 @@ source("SC_vs_age_LMEs.R")   # or .Rmd / .txt renamed to .R
 
 ---
 
-## 📄 License
-MIT (recommended) — update as needed.
-
----
 
 ## 🙋 Troubleshooting
 - **Edge indexing**: ensure SC columns are 2:46 in your matrix.

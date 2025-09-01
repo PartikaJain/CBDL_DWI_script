@@ -6,7 +6,7 @@ R code to estimate **age effects on core‑language‑network (cLAN) structural 
 
 ## 📦 What this code does
 - Loads cLAN structural connectivity matrix and demographics.
-- Z‑scores each SC edge (columns 2–46).
+- Z‑scores each SC edge.
 - Fits per‑edge LMEs:  
   - **Full:** `SC_z ~ 1 + age + (1|gender) + (1|Edu)`  
   - **Null:** `SC_z ~ 1 + (1|gender) + (1|Edu)`

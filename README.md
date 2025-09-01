@@ -1,4 +1,4 @@
-# 🧬 Frontal Vulnerability vs. Temporal Resilience within core Language Network: Neuro-compensatory mechanisms underline differential language aging trajectories
+# 🧬 Neuro-compensatory mechanisms underline differential language aging trajectories
 
 This repository hosts code and pipelines developed at the **Cognitive Brain Dynamics Lab (CBDL), National Brain Research Centre (NBRC)** for studying **age-related changes in structural and functional connectivity within the core Language Network (cLAN)** and their impact on language abilities across the lifespan.
 

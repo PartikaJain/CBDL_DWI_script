@@ -25,7 +25,7 @@ For detailed results, see the manuscript:
 ## 📂 Repository Structure
 
 ```
-CBDL_DWI_script/
+Language_aging/
 │
 ├── DWI_preprocessing/      # Shell pipeline for DWI preprocessing & connectome construction
 │   └── README_CBDL_DWI_script.md
@@ -38,9 +38,14 @@ CBDL_DWI_script/
 │
 ├── main_analysis/SCxAge_GAMM/            # R scripts: SC × age × behaviour interactions (GAMMs)
 │   └── README_SCxAge_GAMM.md
-        
+│
+├── License                               # Lincense MIT
+│       
+│
+├── README.md                             # Project overview and instructions
 
-Each subfolder contains its own `README.md` with **inputs, outputs, and dependencies**.
+
+Each subfolder contains its own `README.md` file, which outlines **inputs, outputs, and dependencies**.
 
 ---
 

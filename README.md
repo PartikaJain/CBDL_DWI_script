@@ -27,7 +27,7 @@ For detailed results, see the manuscript:
 ```
 Language_aging/
 │
-├── DWI_preprocessing/      # Shell pipeline for DWI preprocessing & connectome construction
+├── DWI_preprocessing/                    # Shell pipeline for DWI preprocessing & connectome construction
 │   └── README_CBDL_DWI_script.md
 │
 ├── main_analysis/Language_vs_Age_LME/    # R scripts: language behaviour ~ age (LMEs)

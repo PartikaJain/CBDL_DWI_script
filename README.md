@@ -30,17 +30,15 @@ CBDL_DWI_script/
 ├── DWI_preprocessing/      # Shell pipeline for DWI preprocessing & connectome construction
 │   └── README_CBDL_DWI_script.md
 │
-├── Language_vs_Age_LME/    # R scripts: language behaviour ~ age (LMEs)
+├── main_analysis/Language_vs_Age_LME/    # R scripts: language behaviour ~ age (LMEs)
 │   └── README_Language_vs_Age_LME.md
 │
-├── SC_vs_Age_LME/          # R scripts: SC ~ age (LMEs)
+├── main_analysis/SC_vs_Age_LME/          # R scripts: SC ~ age (LMEs)
 │   └── README_SC_vs_Age_LME.md
 │
-├── SCxAge_GAMM/            # R scripts: SC × age × behaviour interactions (GAMMs)
+├── main_analysis/SCxAge_GAMM/            # R scripts: SC × age × behaviour interactions (GAMMs)
 │   └── README_SCxAge_GAMM.md
-│
-└── main_analysis/          # Outputs, figures, and supplementary materials
-```
+        
 
 Each subfolder contains its own `README.md` with **inputs, outputs, and dependencies**.
 
